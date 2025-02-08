@@ -61,5 +61,5 @@ StegoCrypt provides a secure and hidden method for transmitting sensitive inform
 ### 🔹 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/StegoCrypt.git
+   git clone https://github.com/VaishnaviAhire/StegoCrypt.git
    cd StegoCrypt
